@@ -4,6 +4,14 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+
+# 08/04/2021
+
+- Prise en compte de la configuration réseau de Jeedom
+- ajout champ 'date de péremption'
+- correction de bug divers
+- ajout alerte péremption
+
 # 02/04/2021
 
 - Ajout sélection multiple dans le menu
