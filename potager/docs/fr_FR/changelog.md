@@ -5,6 +5,11 @@
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
 
+# 13/04/2021
+
+- Amélioration de la fonction duppliquer
+- dupplication multiple
+
 # 08/04/2021
 
 - Prise en compte de la configuration réseau de Jeedom
