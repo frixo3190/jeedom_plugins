@@ -112,12 +112,15 @@ Amenez le curseur légèrement en dessous du carré violet, le curseur va se tra
   ![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/menu_semence.jpg)
 
 **sélection multiple - Alignement - Espacement**
-Il peut être pratique de pouvoir sélectionner plusieurs éléments afin de les déplacer conjointement , ou de les aligners (horizontalement, verticalement, espacer régulièrement horizontalement...). Pour ce faire, effectuez un clic droit sur un élément puis sélectionner 'Sélection multiple', vous pourrez ensuite sélectionner plusieurs éléments (ils s'entoureront de rouge !)
-*Astuce* : Pour basculer automatiquement en 'sélection multiple' lors de la sélection d'un élément, il suffit de maintenir la touche CTR appuyée lors de la sélection d'un élément !
+Il peut être pratique de pouvoir sélectionner plusieurs éléments afin de les déplacer conjointement , ou de les aligners (horizontalement, verticalement, espacer régulièrement horizontalement...). Pour ce faire, plusieurs possibilité : 
+-  effectuez un clic droit sur un élément puis sélectionner 'Sélection multiple', vous pourrez ensuite sélectionner plusieurs éléments (ils s'entoureront de rouge !) *Astuce : Pour basculer automatiquement en 'sélection multiple' lors de la sélection d'un élément, il suffit de maintenir la touche CTR appuyée lors de la sélection d'un élément !*
+- Cliquez sur le plan (pas sur une semence), maintenez le clic, et déplacez la souris, un rectangle de sélection vous permettra de sélectionner des semences.*Astuce : Si vous appuyez sur la touche MAJ lors de la sélection via Clic-&-Drag, vous ne désélectionnerez pas vos précédentes sélection !
+
+
 
 **Permaculture - Associer les espèces entres-elles !**
 lorsque vous allez déplacer une semence dans votre potager afin de la positionner, si cette dernière est détectée automatiquement et qu'une association est possible, un halo rouge ou vert vous invitera a la rapprocher d'une autre semence ou à l'éloigner ...
-![sdfsdf](https://github.com/frixo3190/potager_jeedom/blob/Beta/docs/img/association.jpg?raw=true)
+![sdfsdf](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/association.jpg?raw=true)
 *Dans l'exemple ci-dessus, on a sélectionné la Tomate, le programme nous invite a rapprocher la tomate du Basilic , et a l'éloigner du Concombre !*
 
 **Détail d'une semence & détection automatique**
@@ -134,9 +137,9 @@ Si l'espèce en question est détecté par le programme, cela sera précisé et 
 
 **Afficher un quadrillage sur votre potager**
 Effectuez un clic-droit sur le potager (pas sur un élément) pour faire afficher le menu du potager
-![enter image description here](https://github.com/frixo3190/potager_jeedom/blob/Beta/docs/img/menu_potager.jpg?raw=true)
+![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/menu_potager.jpg?raw=true)
 Sélectionnez '**Afficher le quadrillage'** 
-![enter image description here](https://github.com/frixo3190/potager_jeedom/blob/Beta/docs/img/quadrillage.jpg?raw=true)
+![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/quadrillage.jpg?raw=true)
 
 
 
