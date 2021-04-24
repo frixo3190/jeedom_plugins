@@ -4,6 +4,16 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+
+# 24/04/2021
+
+- Ajout de divers Champs
+- Correction Bugs de l'ajustement automatique (la baguette magique)
+- Ajout d'une marre en élément
+- Possibilité de suppresion multiple (de la sélection)
+- Ajout sélection via Clic & Drag (clic et maintient du clic et déplacesement vers le bas et la droite (l'autre coté est pas géré pour le moment))
+- Meilleur suport de Firefox (Attention, les versions inférieurs à Firefox 88 sont pas supportées)
+
 # 20/04/2021
 
 - Bascule en mode 'sélection muliple' lorsqu'on sélectionne un élément tout en maintenant la touche CTR lors du clic
