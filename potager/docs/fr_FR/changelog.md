@@ -4,6 +4,12 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 01/05/2021
+
+- Refonte visuelle
+- Possibilité de vérouiller les éléments du background !
+- Corrections diverses
+
 # 27/04/2021
 
 - On peut désormais ajouter des équipements ou commande/info JEEDOM dans le potager visuel !
