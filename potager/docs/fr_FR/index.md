@@ -18,6 +18,7 @@ Si vous désirez profitez des fonctionnalités de notification, pensez à rensei
 - Télégram
 - Mail
 - SMS
+
 Et pensez à **sauvegarder** !
   ![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/parametres.jpg)
 
@@ -115,6 +116,7 @@ Amenez le curseur légèrement en dessous du carré violet, le curseur va se tra
 Il peut être pratique de pouvoir sélectionner plusieurs éléments afin de les déplacer conjointement , ou de les aligners (horizontalement, verticalement, espacer régulièrement horizontalement...). Pour ce faire, plusieurs possibilité : 
 -  effectuez un clic droit sur un élément puis sélectionner 'Sélection multiple', vous pourrez ensuite sélectionner plusieurs éléments (ils s'entoureront de rouge !) *Astuce : Pour basculer automatiquement en 'sélection multiple' lors de la sélection d'un élément, il suffit de maintenir la touche CTR appuyée lors de la sélection d'un élément !*
 - Cliquez sur le plan (pas sur une semence), maintenez le clic, et déplacez la souris, un rectangle de sélection vous permettra de sélectionner des semences.*Astuce : Si vous appuyez sur la touche MAJ lors de la sélection via Clic-&-Drag, vous ne désélectionnerez pas vos précédentes sélection !
+
 
 
 
