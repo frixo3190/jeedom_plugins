@@ -78,6 +78,11 @@ Cela se précise via le champ type.
   
 
 ***visuel de vos semences***
+Si votre semence est détectée par l'IA , vous aurez un visuel de votre semence réaliste , et ceux sans rien faire !
+![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/liste_semences.jpg)
+
+
+sinon : 
 Par défaut , vos semences sont des 'graines'
 ![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/semence.jpg)
 Mais si vous les déclarez comme semées, elles vont devenir des graines en godet
