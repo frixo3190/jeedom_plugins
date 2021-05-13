@@ -6,7 +6,7 @@
 
 # 13/05/2021
 
-- Correction du bug : perte des pref du potagers (couleur herbe/terre)
+- Correction du bug : perte (rare) des pref du potagers (couleur herbe/terre)
 
 # 11/05/2021
 
