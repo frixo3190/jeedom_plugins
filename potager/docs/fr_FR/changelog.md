@@ -4,6 +4,13 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 17/05/2021
+
+- Correction de bugs divers
+- ajout d'image dans la bdd de l'ia
+- ajout de nouvelles fonctionalités
+_ ajout de nouveaux champs
+
 # 13/05/2021
 
 - Correction du bug : perte (rare) des pref du potagers (couleur herbe/terre)
