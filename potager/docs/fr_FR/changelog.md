@@ -8,8 +8,8 @@
 
 - Correction de bugs divers
 - ajout d'image dans la bdd de l'ia
-- ajout de nouvelles fonctionalités
-_ ajout de nouveaux champs
+- ajout de nouvelles fonctionalités (dupplication multiple/désactivation de l'ia pour une semence/...)
+- ajout de nouveaux champs
 
 # 13/05/2021
 
