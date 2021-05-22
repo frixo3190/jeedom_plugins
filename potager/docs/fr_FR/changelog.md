@@ -4,6 +4,17 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 22/05/2021
+
+- ajout d'image dans la bdd de l'ia
+- amélioration de l'ia
+- Ajout de la fonctionnalité de gestion de l'arrosage
+- ajout de très nombreux critères
+- ajout de la selection multiple de semis dans le planning
+- correction du bug de sélection d'un element tourné sur le potager
+- ajout des phases de la lune
+- corrections diverses
+
 # 17/05/2021
 
 - Correction de bugs divers
