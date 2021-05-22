@@ -1,5 +1,6 @@
 
 # Documentation du Plugin Potager
+*Date de la dernière mise à jour : 22/05/2021*
 
   #### Sommaire  
   1. [Installation et activation du plugin](#installation) 
@@ -9,6 +10,7 @@
   5. [Déclarer un semis](#creer_semis)
   6. [Organiser un potager](#potager)
   7. [Planning de vos semis](#planning)
+  8. [Gérez vos arrosages (NOUVEAU)](#arrosage)
 
 ## 1 - Installation et activation du plugin <a name="installation"></a>
 ### 1.1 - Installation
@@ -232,3 +234,21 @@ Il est possible d’effectuer un clic droit sur un semis pour  :
 Un bouton **imprimer** permet de générer une page à imprimer optimisée pour économiser de l’encre et avoir une vue synthétique de vos semences.
 
 
+ ## 8 - Gérez vos arrosages <a name="arrosage"></a>
+ ![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/gestion.jpg)
+Nouveauté ! Le plugin Potager permet désormais d'automatiser vos arrosages !
+Pour ce faire, rendez-vous dans l'onglet GESTION.
+Sélectionnez un équipement (peu importe, un potager, ou une semence), puis sélectionnez l'onglet 'Arrosage'
+![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/arrosage.jpg)
+Vous pouvez ensuite créer autant de système d'arrosage automatique que désirez en cliquant sur le bouton 'Nouvel arrosage'
+
+Un formulaire de gestion d'arrosage sera ainsi rajouté . Vous pouvez le nommer, et le paramétrer.
+![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/n_arrosage.jpg)
+Il est très souple. Vous pouvez sélectionner plusieurs mode de déclenchement (CRON et/ou déclencheur)
+Vous pouvez aussi préciser des conditions d'annulation de démarrage de l'arrosage (ex : lancer l'arrosage à 8H00 du matin sauf s'il pleut !)
+Il faudra préciser ensuite la condition de fin d'arrosage , un timer ou une condition (ex : 20min ou capteur d'humidité saturé)
+Et évidement il faudra préciser les actions à opérer pour lancer et arrêter l'arrosage !
+
+**BIEN PENSEZ A ENREGISTRER**
+
+Des commandes JEEDOM associées à votre arrosage seront créées associées à l'équipement sur lequel l'arrosage a été créé. . 
