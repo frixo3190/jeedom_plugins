@@ -234,6 +234,10 @@ Il est possible d’effectuer un clic droit sur un semis pour  :
 Un bouton **imprimer** permet de générer une page à imprimer optimisée pour économiser de l’encre et avoir une vue synthétique de vos semences.
 
 
+Il est désormais possible sur le planning de sélectionner plusieurs semis via le bouton de sélection multiple ici
+![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/planning_multi.jpg)
+pour ensuite appliquer une même déclaration (marquer comme semé/récolté/...)
+
  ## 8 - Gérez vos arrosages <a name="arrosage"></a>
  ![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/gestion.jpg)
 Nouveauté ! Le plugin Potager permet désormais d'automatiser vos arrosages !
