@@ -6,6 +6,13 @@
 
 *Aidez moi à faire connaître POTAGER - parlez de l'application autour de vous !*
 
+# 31/05/2021
+
+- correction bugs divers
+- Support intégral du TACILTE !
+- Ajout divers objets
+- Ajout verouillage Semences
+
 # 25/05/2021
 
 - correction bug suppression des commandes
