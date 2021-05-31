@@ -1,6 +1,6 @@
 
 # Documentation du Plugin Potager
-*Date de la dernière mise à jour : 22/05/2021*
+*Date de la dernière mise à jour : 31/05/2021*
 
   #### Sommaire  
   1. [Installation et activation du plugin](#installation) 
@@ -11,6 +11,9 @@
   6. [Organiser un potager](#potager)
   7. [Planning de vos semis](#planning)
   8. [Gérez vos arrosages (NOUVEAU)](#arrosage)
+
+
+NOUVEAU : POTAGER est compatible Tablette et Smartphone !
 
 ## 1 - Installation et activation du plugin <a name="installation"></a>
 ### 1.1 - Installation
@@ -84,7 +87,7 @@ Si votre semence est détectée par l'IA , vous aurez un visuel de votre semence
 ![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/liste_semences.jpg)
 
 
-sinon : 
+**sinon :** 
 Par défaut , vos semences sont des 'graines'
 ![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/semence.jpg)
 Mais si vous les déclarez comme semées, elles vont devenir des graines en godet
@@ -159,7 +162,7 @@ Pour redimensionner vos éléments , utilisez le petit carré bleu en bas a droi
 ![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/coin_redim.jpg)
 
 **Effectuer une rotation à un élément**
-Amenez le curseur légèrement en dessous du carré violet, le curseur va se transformer en 'croix' , et un pop up vous invitera a cliquer ( et maintenir le clic) pour effectuer une rotation de l'élément !
+Amenez le curseur légèrement en dessous du carré violet sur le carré vert, le curseur va se transformer en 'croix' , et un pop up vous invitera a cliquer ( et maintenir le clic) pour effectuer une rotation de l'élément !
  ![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/coin_redim2.jpg)
   
   **supprimer un élément**
@@ -169,7 +172,7 @@ Amenez le curseur légèrement en dessous du carré violet, le curseur va se tra
 **sélection multiple - Alignement - Espacement**
 Il peut être pratique de pouvoir sélectionner plusieurs éléments afin de les déplacer conjointement , ou de les aligners (horizontalement, verticalement, espacer régulièrement horizontalement...). 
 Pour ce faire, plusieurs possibilité : 
--  effectuez un clic droit sur un élément puis sélectionner 'Sélection multiple', vous pourrez ensuite sélectionner plusieurs éléments (ils s'entoureront de rouge !) *Astuce : Pour basculer automatiquement en 'sélection multiple' lors de la sélection d'un élément, il suffit de maintenir la touche CTR appuyée lors de la sélection d'un élément !*
+-  Cliquez sur un premier élément, puis tout en maintenant la touche MAJ , sélectionnez d'autres éléments
 - Cliquez sur le plan (pas sur une semence), maintenez le clic, et déplacez la souris, un rectangle de sélection vous permettra de sélectionner des semences.*Astuce : Si vous appuyez sur la touche MAJ lors de la sélection via Clic-&-Drag, vous ne désélectionnerez pas vos précédentes sélection !
 
 
