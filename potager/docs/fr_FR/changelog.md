@@ -6,6 +6,11 @@
 
 *Aidez moi à faire connaître POTAGER - parlez de l'application autour de vous !*
 
+# 02/06/2021
+
+- Ajout équipement lune
+- correction bugs divers
+
 # 31/05/2021
 
 - correction bugs divers
