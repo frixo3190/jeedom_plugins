@@ -9,6 +9,7 @@
 # 06/06/2021
 
 - Support format smartphone !
+- optimisation des notifs push
 
 # 02/06/2021
 
