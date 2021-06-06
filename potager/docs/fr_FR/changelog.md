@@ -6,6 +6,10 @@
 
 *Aidez moi à faire connaître POTAGER - parlez de l'application autour de vous !*
 
+# 06/06/2021
+
+- Support format smartphone !
+
 # 02/06/2021
 
 - Ajout équipement lune
