@@ -1,4 +1,5 @@
 
+
 # Documentation du Plugin Potager
 *Date de la dernière mise à jour : 31/05/2021*
 
@@ -153,7 +154,7 @@ Rien de plus facile, cliquez dessus et déplacez le !
 *NB : si le potager est 'verrouillé', seul les semences sont modifiables/déplaçables, pour être en mesure d'éditer des éléments de décorations, il faut s'assurer que le potager est bien 'déverrouillé'*
 
 **ASTUCE : Déplacer TOUS les éléments (en même temps)**
-Cliquez en MAINTENANT la touche CTR sur un élément quelconque déplacez le !
+Cliquez en MAINTENANT la touche ALT sur un élément quelconque déplacez le !
 L'ensemble des éléments du potager se déplacera en même temps !
 Cette fonction peut s'avérer utile lorsque vous redimensionnez le potager et que vous avez besoin de repositionner vos éléments tous ensemble !
 
