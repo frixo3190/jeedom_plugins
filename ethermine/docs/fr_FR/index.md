@@ -19,7 +19,7 @@ Ajouter un équipement sur la page du plugin, et bien préciser son adresse de p
 
 #### 4 - Estimation des gains
 Toutes les 5 min le plugin rafraichit automatiquement l'ensemble des équipements , et va **affiner** l'estimation des gains.
-*Attention, le coût de l'électricité consommé par vos équipements n'est pas déduit , c'est une estimation brute du gain.*
+*Attention, le coût de l'électricité consommé par vos équipements est déduites (uniquement pour les estimations en Euro, pas celles en Eth) si et seulement si vous avez bien paramétrer le cout de votre conso electrique dans les parametres du plugins ,e tsi vous avez bien déclaré la puissance consommée en temps réel en W sur l'équipement , c'est une estimation brute du gain.*
 
 #### 5 - Date dernier paiement
 En se basant sur le montant gagné non payé, le plugin va détecter lorsqu'un paiement du pool est effectué sur vote portefeuille. Via Jeedom il est donc simple de créer un scénario avec comme déclencheur **la date du dernier paiement** pour vous avertir
