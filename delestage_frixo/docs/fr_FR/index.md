@@ -1,6 +1,11 @@
 
 # Délestage Frixo
 
+Ceci est la version maintenue à jour du plugin Délestage recodé et debuggé par Frixo (et passé en V4) suite à un an de tentative de correction du plugin Délestage officiel
+Ce n'est pas un simple FORK du plugin officiel, et ce n'est pas une tentative de bypasser JEEDOM.
+Le développeur s'engage a retirer cette application si l'appli officielle Délestage est de nouveau maintenue comme il se doit
+ 
+
 ## 1 - Description
 Plugin permettant de gérer le délestage électrique. Le plugin gère 3 types de délestage :
 
