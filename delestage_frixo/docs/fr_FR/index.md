@@ -132,9 +132,8 @@ Les paramètres suivants peuvent être réglés:
 Il est possible de 'retirer' temporairement un équipement du délesteur , en l'ajoutant à la white liste.
 S'il est en cours de délestage, il sera réactivé.
 Si un cycle est en cours (mode cascadocyclique) , et que l'équipement ajouté à la whiteliste est délesté, il sera réactivé et le cycle sera relancé sans respecter exceptionnellement le délais paramétré. 
-Pour ajouter un équipement à la white list, il faut appeler la commande 'Retirer un équipement temporairement du délestage'  et passer en 'Title' l'identifiant JEEDOM de la commande ON de l'équipement (pour ce faire, vous pouvez utiliser un scénario ou un Virtuel)
+Pour ajouter un équipement à la white list, il faut appeler la commande 'Retirer un équipement temporairement du délestage'  et passer en 'Title' l'identifiant JEEDOM de la commande ON (ou l'identifiant du thermostat pour le mode SMART) de l'équipement (pour ce faire, vous pouvez utiliser un scénario ou un Virtuel)
 
 Il est possible d'effacer totalement la white list, ou de réinclure un seul ID (via les commandes associées)
 
 
-PS : la white list pour l'instant est non fonctionnelle pour le mode SMART
