@@ -137,3 +137,15 @@ Pour ajouter un équipement à la white list, il faut appeler la commande 'Retir
 Il est possible d'effacer totalement la white list, ou de réinclure un seul ID (via les commandes associées)
 
 
+### Liaison entre délesteur
+Il est désormais possible de lier des délesteur entre eux. On aura donc un délesteur père, un fils (on peut avoir un petit fils, etc...).
+
+Le délesteur fils ne s'enclenchera que si : 
+- le délesteur père est déja enclenché et qu'il a délester le maximum de ce qu'il pouvait faire !
+
+Le délesteur père ne réenclenchera des équipements délesté que si :
+- le délesteur fils est totalement réactivé (aucun équipement délesté)
+
+il faut donc bien paramétré sur chaqu'un des délesteur (père et fils) , qui est le père de l'un , et qui est le fils de l'autre.
+
+
