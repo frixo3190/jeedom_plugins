@@ -73,7 +73,7 @@ Le délestage s’effectue en mode rotatif sur les actionneurs définis pour le 
 
   
 
-**Remarque :** Il est n'est ÄS obligatoire de saisir la puissance de chaque équipement (dans le plugin Délestage Frixo)
+**Remarque :** Il est n'est PAS obligatoire de saisir la puissance de chaque équipement (dans le plugin Délestage Frixo), mais si la puissance est saisie, alors le délestage sera plur rapide (et donc plus précis), cas sans puissance renseignée, le délesteur ne délestera que 1 équipement , puis attendra un nouveau rapport de puissance instantanée , et si la puissance est encore supérieure au seuil paramétrée, il délestera a nouveau un équipement etc etc. Si la puissance est renseigné, plusieurs équipements seront délestés en même temps afin de repasser sous le seuil immédiatement.
 
   
   
