@@ -73,7 +73,7 @@ Le délestage s’effectue en mode rotatif sur les actionneurs définis pour le 
 
   
 
-**Remarque :** Il est obligatoire de saisir la puissance de chaque équipement (dans le plugin Délestage Frixo)
+**Remarque :** Il est n'est ÄS obligatoire de saisir la puissance de chaque équipement (dans le plugin Délestage Frixo)
 
   
   
