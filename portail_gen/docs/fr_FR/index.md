@@ -26,7 +26,7 @@ Dans l'onglet 'Communication' vous pouvez ajouter des actions (vous envoyer un m
 - le portail est fermé
 - le portail n'arrive pas à se fermer
 - le portail se ferme automatiquement 
-- 
+
 #### 4 - Sécurité
 le plug-in peut gérer pour vous la fermeture automatique du portail après un certain temps ouvert.
 Le plug in va aussi s'assurer que lorsqu'un ordre de fermeture a été envoyé,le portail se ferme réellement sinon il va effectuer un certain nombre de tentatives.
