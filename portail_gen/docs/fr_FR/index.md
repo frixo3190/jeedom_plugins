@@ -33,3 +33,7 @@ Le plug in va aussi s'assurer que lorsqu'un ordre de fermeture a été envoyé,l
 
 #### 5 - Portillon
 Si vous avez un petit portillon ou que vous avez la possibilité de pouvoir ouvrir qu'un seul battant du portail, le plug-in peut le prendre en charge aussi.
+
+
+#### 6 - Defaillance
+Si lors d'un ordre d'ouverture du portail, le capteur de fermeture du portial ne détecte pas que ce dernier n'est plus fermé dans les 5 seconde suivant l'ordre, une alerte défaillance sera émise
