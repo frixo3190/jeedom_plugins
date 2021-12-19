@@ -6,6 +6,7 @@
 
 # 19/12/2021
 - Ajout la possibilité d'exclure certains équipements de l'analyse
+- ajout d'une nouvelle option activée par defaut : 'Ne pas renvoyer une alerte déjà envoyé lors de l'analyse précédente'
 
 # 18/12/2021
 - Correction bug
