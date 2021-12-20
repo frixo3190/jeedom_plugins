@@ -6,7 +6,7 @@
 #### Sommaire  
   1. [Installation et activation du plugin](#installation) 
   2. [Configuration du plugin](#configuration) 
-  3. [Les éléments du potager](#elements)
+  3. [Les éléments du potager](#element)
   4. [Créer une semence ou un potager](#creer)
   5. [Déclarer un semis](#creer_semis)
   6. [Organiser un potager](#potager)
@@ -111,7 +111,7 @@ Le plugin ignorera tout ce qui trouve à partir du '@' !
 
 
 
-## 4- Déclarer un semis<a name="creer_semis"></a>
+## 5- Déclarer un semis<a name="creer_semis"></a>
 Comme expliqué précédemment, pour une même semence, on peut déclarer plusieurs semis.
 Prenons le cas de la semence 'Radis de 18 jours', le jardinier va certainement semis en plusieurs fois. On peut donc créer un premier semis (disons premier semis le 1 mai) , puis un second 1 mois plus tard , etc ,etc
 
