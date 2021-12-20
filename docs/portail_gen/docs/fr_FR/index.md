@@ -37,3 +37,16 @@ Si vous avez un petit portillon ou que vous avez la possibilité de pouvoir ouvr
 
 #### 6 - Defaillance
 Si lors d'un ordre d'ouverture du portail, le capteur de fermeture du portial ne détecte pas que ce dernier n'est plus fermé dans les 5 seconde suivant l'ordre, une alerte défaillance sera émise
+
+# Changelog <a name="changelog"></a>
+# Changelog plugin Portail
+
+>**IMPORTANT**
+>
+>Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
+
+# 18/12/2021
+- Correctif sur le widget (prise en compte de l'action masquer une commande)
+
+# 12/12/2021
+- Création du plugin
