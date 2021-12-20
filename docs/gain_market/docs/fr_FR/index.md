@@ -13,7 +13,6 @@ Le plugin récupèrera toutes les 5 min (cron5) le solde Jeedom Market non payé
 Vous pouvez profiter de notifications en cochant les cases adéquates proposées.
 
 # Changelog <a name="changelog"></a>
-# Changelog plugin Gain Market
 
 >**IMPORTANT**
 >
