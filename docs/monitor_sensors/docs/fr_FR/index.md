@@ -19,3 +19,7 @@ Un refresh forcé peut être long (env 2min), car notamment pour le ZWAVE , le p
 
 #### 4 - Spécificité
 Seul un utilisateur de Jeedom avec le profil 'Administrateur' peut consulter et éditer un équipement de monitor sensor
+
+
+
+## changelog <a name="changelog"></a>
