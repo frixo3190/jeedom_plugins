@@ -3,7 +3,7 @@
 # Documentation du Plugin Potager
 *Date de la dernière mise à jour : 31/05/2021*
 
-  #### Sommaire  
+#### Sommaire  
   1. [Installation et activation du plugin](#installation) 
   2. [Configuration du plugin](#configuration) 
   3. [Les éléments du potager](#elements)
@@ -207,7 +207,7 @@ Le bouton **imprimer** vous génèrera un schéma de votre potager !
 
 ![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/potager2.jpg)
  
- ## 7 - Planning de vos semis <a name="planning"></a>
+## 7 - Planning de vos semis <a name="planning"></a>
  ![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/b_planning.jpg)
 La vue **planning** permet de visualiser rapidement vos semences et vos semis.
 Lorsqu’il faut les semer, les mettre en terre etc. Un certain nombre d’icone sont affichées à côté de vos semences pour facilement identifier : son type (légume/plante/etc) , la quantité semé / si vous avez épuisé vos semences / …
@@ -242,7 +242,7 @@ Il est désormais possible sur le planning de sélectionner plusieurs semis via 
 ![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/planning_multi.jpg)
 pour ensuite appliquer une même déclaration (marquer comme semé/récolté/...)
 
- ## 8 - Gérez vos arrosages <a name="arrosage"></a>
+## 8 - Gérez vos arrosages <a name="arrosage"></a>
  ![enter image description here](https://raw.githubusercontent.com/frixo3190/jeedom_plugins/main/potager/docs/img/gestion.jpg)
 Nouveauté ! Le plugin Potager permet désormais d'automatiser vos arrosages !
 Pour ce faire, rendez-vous dans l'onglet GESTION.
