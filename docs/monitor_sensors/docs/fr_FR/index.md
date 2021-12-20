@@ -22,7 +22,7 @@ Seul un utilisateur de Jeedom avec le profil 'Administrateur' peut consulter et 
 
 
 
-## changelog <a name="changelog"></a>
+# Changelog <a name="changelog"></a>
 
 >**IMPORTANT**
 >
