@@ -45,6 +45,10 @@ Si lors d'un ordre d'ouverture du portail, le capteur de fermeture du portial ne
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 24/12/2021
+- Correctifs
+- Ajout de la possibilité d'effectuer des actions d'une NOUVELLE tentative de fermeture
+
 # 18/12/2021
 - Correctif sur le widget (prise en compte de l'action masquer une commande)
 
