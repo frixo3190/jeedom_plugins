@@ -28,6 +28,9 @@ Seul un utilisateur de Jeedom avec le profil 'Administrateur' peut consulter et 
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 06/01/2022
+- Correction bug (et bonne année)
+
 # 19/12/2021
 - Ajout la possibilité d'exclure certains équipements de l'analyse
 - ajout d'une nouvelle option activée par defaut : 'Ne pas renvoyer une alerte déjà envoyé lors de l'analyse précédente'
