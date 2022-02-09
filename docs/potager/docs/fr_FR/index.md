@@ -270,10 +270,18 @@ Des commandes JEEDOM associées à votre arrosage seront créées associées à 
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte ou l'ajout de semences dans la BDD de l'ia
 
 *Aidez moi à faire connaître POTAGER - parlez de l'application autour de vous !*
+
+# 09/02/2022
+
+- Diverses corrections
+- ajout champs divers & filtre dans le planning
+
+
 # 15/11/2021
 
 - Corrections bug lune
 - Correction img épinard
+
 # 02/07/2021
 
 - Corrections diverses
