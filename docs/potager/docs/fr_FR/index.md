@@ -271,6 +271,15 @@ Des commandes JEEDOM associées à votre arrosage seront créées associées à 
 
 *Aidez moi à faire connaître POTAGER - parlez de l'application autour de vous !*
 
+# 23/02/2022
+
+- Diverses corrections
+- Ajout de la gestion des achats
+- Ajout d'une barre rouge sur les icones de semence en rupture
+- Ajout du trie par nom dans le planning
+- Correction impression du planning (couleur ligne + couleur icone en mode Dark)
+- Correction bug critique affichage planing en boucle
+
 # 09/02/2022
 
 - Diverses corrections
