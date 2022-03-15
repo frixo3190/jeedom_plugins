@@ -28,6 +28,9 @@ Seul un utilisateur de Jeedom avec le profil 'Administrateur' peut consulter et 
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 15/03/2022
+- robustesse crash notif
+
 # 20/01/2022
 - Ajout de la surveillance de la queue Zwave (et alertes si nécessaire)
 - Ajout de la surveillance du status Zwave (et alertes si nécessaire)
