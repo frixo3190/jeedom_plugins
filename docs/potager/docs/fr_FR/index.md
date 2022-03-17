@@ -271,6 +271,13 @@ Des commandes JEEDOM associées à votre arrosage seront créées associées à 
 
 *Aidez moi à faire connaître POTAGER - parlez de l'application autour de vous !*
 
+# 17/03/2022
+
+- Diverses corrections de bugs (dont j'ai la flemme de détailler)
+- Ajout de nouveaux champs
+- Ajout d'une option dans le menu clic droit sur une semence dans le planning
+- Ajout nouveau filtre planning
+
 # 08/03/2022
 
 - Diverses corrections
