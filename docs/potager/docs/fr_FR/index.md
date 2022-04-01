@@ -271,6 +271,12 @@ Des commandes JEEDOM associées à votre arrosage seront créées associées à 
 
 *Aidez moi à faire connaître POTAGER - parlez de l'application autour de vous !*
 
+# 01/04/2022
+
+- Diverses corrections de bugs 
+- Ajout des Evol de Mr Riquette :P
+- Ajout d'une évol pour Jelo52
+
 # 17/03/2022
 
 - Diverses corrections de bugs (dont j'ai la flemme de détailler)
