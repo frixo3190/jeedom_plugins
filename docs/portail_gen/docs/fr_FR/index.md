@@ -45,6 +45,9 @@ Si lors d'un ordre d'ouverture du portail, le capteur de fermeture du portial ne
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 11/04/2022
+- Ajout portail garage
+
 # 30/01/2022
 - Grosses mise a jour, beaucoup de nouveauté, je vous invite a bien revérifier votre équipement !
 
