@@ -271,6 +271,10 @@ Des commandes JEEDOM associées à votre arrosage seront créées associées à 
 
 *Aidez moi à faire connaître POTAGER - parlez de l'application autour de vous !*
 
+# 10/05/2022
+
+- Diverses corrections de bugs 
+
 # 11/04/2022
 
 - Diverses corrections de bugs 
