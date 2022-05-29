@@ -271,6 +271,14 @@ Des commandes JEEDOM associées à votre arrosage seront créées associées à 
 
 *Aidez moi à faire connaître POTAGER - parlez de l'application autour de vous !*
 
+
+# 29/05/2022
+
+- Diverses corrections de bugs 
+- Ajout de l'élément 'Herbe'
+- Ajout de divers champs
+- Possibilité d'utiliser une variable ou une commande info dans le champ Timer dans l'arrosage
+
 # 10/05/2022
 
 - Diverses corrections de bugs 
