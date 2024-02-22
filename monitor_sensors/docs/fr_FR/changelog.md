@@ -4,6 +4,11 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 18/02/2024 
+- Grosse mise à jour pour le support intégral de ZwaveJS
+- Pour fonctionner nécessite ABSOLUMENT le plugin officiel MQTT2 de Jeedom
+- Attention, désormais il y a une dépendance à installer dans le plugin
+
 # 19/12/2021
 - Ajout la possibilité d'exclure certains équipements de l'analyse
 - ajout d'une nouvelle option activée par defaut : 'Ne pas renvoyer une alerte déjà envoyé lors de l'analyse précédente'
